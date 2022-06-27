@@ -4,6 +4,8 @@ Soy un ingeniero de computación graduado de la Universidad Rafael Urdaneta. Mis
 - NodeJS
 - Express
 - Typescript
+- ReactJS
+- React Native
 - SQL (mayormente con postgresql, pero tambien he manejado MySQL)
 - Nosql (con MongoDB)
 - WebRTC (basico)
